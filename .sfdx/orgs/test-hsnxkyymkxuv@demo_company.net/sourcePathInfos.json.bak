@@ -45,15 +45,15 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1501427332777,
-            "changeTime": 1501427332777,
-            "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "modifiedTime": 1501426609576,
+            "changeTime": 1501426609576,
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1501427048216,
             "changeTime": 1501427048216,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
         }
     ],
     [
@@ -1061,14 +1061,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1501425160169,
+            "changeTime": 1501425160169,
+            "contentHash": "1b91252886d2447a7b894a7b041830341f251951",
             "isMetadataFile": false,
-            "size": 465,
-            "modifiedTime": 1501427608599,
-            "changeTime": 1501427608599,
-            "contentHash": "1e930ce7adb806beb4b82983932a86ef00242211"
+            "state": "u"
         }
     ],
     [
@@ -1100,14 +1100,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1501425915825,
+            "changeTime": 1501425365936,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1501427689987,
-            "changeTime": 1501427689987,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -1269,14 +1269,14 @@
     [
         "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
             "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1501426713370,
+            "changeTime": 1501426713370,
+            "contentHash": "942ff45728b690d7ff605de9908ff0821a651669",
             "isMetadataFile": false,
-            "size": 331,
-            "modifiedTime": 1501427741498,
-            "changeTime": 1501427741498,
-            "contentHash": "8f2ee206fa96c465e26739e495584cddcbc34414"
+            "state": "u"
         }
     ],
     [
@@ -1312,10 +1312,10 @@
             "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 832,
-            "modifiedTime": 1501427793439,
-            "changeTime": 1501427793439,
-            "contentHash": "d399ea1f30bb1ebdef64636a0317a518f5583d6d"
+            "size": 380,
+            "modifiedTime": 1501427050693,
+            "changeTime": 1501427050693,
+            "contentHash": "af8e52d17b24a9d9669a5f8ea4e13b1c9e7faa45"
         }
     ],
     [
@@ -1342,45 +1342,6 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1501427332784,
-            "changeTime": 1501427332784,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1501427576421,
-            "changeTime": 1501427576421,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\pankaj.agrahari\\Desktop\\DX\\Sample Project\\geolocation\\force-app\\main\\default\\aura\\AccountsLoaded\\AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1501427332785,
-            "changeTime": 1501427332785,
-            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
